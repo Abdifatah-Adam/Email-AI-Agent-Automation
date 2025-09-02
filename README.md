@@ -9,8 +9,8 @@ This project demonstrates an AI-powered email automation agent built using **Mak
 3. Automatically send customized emails to recipients
 
 ## Screenshots
-![Make Workflow](make_workflow.png.PNG)
-![Google Sheet](google_sheet.png.PNG)
+![Make Workflow](screenshots/make_workflow.png.PNG)
+![Google Sheet](screenshots/google_sheet.png.PNG)
 
 ## JSON Export
 The workflow can be imported into Make.com using the provided JSON file: `workflow.json`
